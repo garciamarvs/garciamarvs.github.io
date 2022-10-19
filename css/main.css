@@ -606,6 +606,14 @@ ul {
   margin-right: 5px;
 }
 
+.carousel-control-next-icon, .carousel-control-prev-icon {
+  width: 30px;
+  height: 30px;
+  background-size: 60%;
+  background-color: #000000;
+  border-radius: 50%;
+}
+
 @media (max-width: 1199px) {
   .portfolio-wrapper {
     height: auto;
